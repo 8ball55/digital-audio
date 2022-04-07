@@ -2,7 +2,7 @@
 
 # MUS147 WORKSPACE
 
-Here is where I showcase my works for digital audio workspace
+Here is where I showcase my works for digital audio
 
 ## Audio Projects
 
