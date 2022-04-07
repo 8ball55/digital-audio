@@ -1,4 +1,4 @@
-![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/sqdgfrtu.PNG)
+![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/sqdgfrtu.png)
 
 # MUS147 WORKSPACE
 
