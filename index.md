@@ -1,10 +1,10 @@
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/sqdgfrtu.PNG?raw=true)
 
-# MUS147 WORKSPACE
+# Shyan's Digital Audio Projects
 
-Here is where I showcase my works for digital audio that I have done in the computer music programming course at UCI.
+Hey! My name is Shyan Shafii, I am an Electrical Engineering undergraduate student specializing in circuit design and opticalelectronics/semiconductors and minoring in Japanese Language & Literature at University of California, Irvine. My interests in electronics are mostly musical applications of electronic hardware/software which is why I decided to undertake the course computer music programming (MUS147/CS190) and develop my skills in what I actually want to do with field in the future. This website is where I showcase my works for digital audio that I have done in the computer music programming course at UCI.
 
-## Audio Projects for MUS147
+## Audio Projects for MUS147/CS190
 
 List number corresponds to the assignment number
 
@@ -15,3 +15,6 @@ List number corresponds to the assignment number
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/ross_attract.PNG?raw=true)
 5. [Rossler Attractor Keyboard + Randomized Gaussian Distribution](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Attractor_Keyboard.zip) 
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
+
+## Contact for any questions
+sshafii@uci.edu
