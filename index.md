@@ -13,3 +13,5 @@ List number corresponds to the assignment number
 3. [Pure Sine Wave Synthesizer controlled by MIDI](https://drive.google.com/drive/folders/1t65pnmKhLaf2NL7DoW9foFdTSZAxkvkE)
 4. [Sonic Rossler Attractor](https://drive.google.com/drive/folders/1C0R1puJWYCO5yEpFiUdXwkaV81H2koGg) 
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/ross_attract.PNG?raw=true)
+5. [Rossler Attractor Keyboard + Randomized Gaussian Distribution](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Attractor_Keyboard.zip) 
+![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
