@@ -16,5 +16,5 @@ List number corresponds to the assignment number
 5. [Rossler Attractor Keyboard + Randomized Gaussian Distribution](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Attractor_Keyboard.zip) 
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
 
-## Contact for any questions
+## Contact Me For Any Questions
 sshafii@uci.edu
