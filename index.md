@@ -15,6 +15,7 @@ List number corresponds to the assignment number
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/ross_attract.PNG?raw=true)
 5. [Rossler Attractor Keyboard + Randomized Gaussian Distribution](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Attractor_Keyboard.zip) 
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
+6. [Final Project Progress Report (2D Wavetable Synthesizer with Mugic Capabilities)] (https://drive.google.com/drive/folders/167r4zUH3GcC0k574t21Q86AmmRaQQuQH)
 
 ## Contact Me For Any Questions
 sshafii@uci.edu
