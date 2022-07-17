@@ -16,10 +16,10 @@ List number corresponds to the assignment number
 5. [Rossler Attractor Keyboard + Randomized Gaussian Distribution](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Attractor_Keyboard.zip) 
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
 6. [Final Project Progress Report 2D Wavetable Synthesizer with Mugic Capabilities](https://drive.google.com/drive/folders/167r4zUH3GcC0k574t21Q86AmmRaQQuQH)
-7. [GESTURE CONTROLLED 2D WAVETABLE SYNTHESIZER WITH MUGIC CAPABILITIES(MUS147 Final Project)](https://github.com/8ball55/digital-audio/blob/47fe1c2079c376e3f07bfde68ae764a641df18fd/2D%20Gesture-Based%20Wavetable%20Synthesizer.rar) ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Gesture%20Synth.PNG)
+7. [GESTURE CONTROLLED 2D WAVETABLE SYNTHESIZER WITH MUGIC CAPABILITIES(MUS147 Final Project)](https://github.com/8ball55/digital-audio/blob/47fe1c2079c376e3f07bfde68ae764a641df18fd/2D%20Gesture-Based%20Wavetable%20Synthesizer.rar) ![Image](https://raw.githubusercontent.com/8ball55/digital-audio/gh-pages/Gesture%20Synth.PNG)
 8. [DUB SIREN](https://github.com/8ball55/digital-audio/blob/gh-pages/Dub_Siren.rar) 
 
-![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Dub_Siren.PNG)
+![Image](https://raw.githubusercontent.com/8ball55/digital-audio/gh-pages/Dub_Siren.PNG)
 
 ## Contact Me For Any Questions
 sshafii@uci.edu
