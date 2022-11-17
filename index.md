@@ -2,7 +2,7 @@
 
 # Shyan's Digital Audio Projects
 
-Hey! My name is Shyan Shafii, I am an Electrical Engineering undergraduate student specializing in circuit design and opticalelectronics/semiconductors and minoring in Japanese Language & Literature at University of California, Irvine. My interests in electronics are mostly musical applications of electronic hardware/software which is why I decided to undertake the course computer music programming (MUS147/CS190) and develop my skills in what I actually want to do with field in the future. This website is where I showcase my works for digital audio that I have done in the computer music programming course at UCI.
+Hey! My name is Shyan Shafii, I am an Electrical Engineering graduate student at University of California, Los Angeles. My interests in electronics are mostly musical applications of electronic hardware/software. This website is where I showcase my projects in DSP and audio hardware/software.
 
 ## Audio Projects for MUS147/CS190
 
@@ -17,9 +17,10 @@ List number corresponds to the assignment number
 ![Image](https://github.com/8ball55/digital-audio/blob/gh-pages/Rossler_Keyboard.PNG?raw=true)
 6. [Final Project Progress Report 2D Wavetable Synthesizer with Mugic Capabilities](https://drive.google.com/drive/folders/167r4zUH3GcC0k574t21Q86AmmRaQQuQH)
 7. [GESTURE CONTROLLED 2D WAVETABLE SYNTHESIZER WITH MUGIC CAPABILITIES(MUS147 Final Project)](https://github.com/8ball55/digital-audio/blob/47fe1c2079c376e3f07bfde68ae764a641df18fd/2D%20Gesture-Based%20Wavetable%20Synthesizer.rar) ![Image](https://raw.githubusercontent.com/8ball55/digital-audio/gh-pages/Gesture%20Synth.PNG)
-8. [DUB SIREN](https://github.com/8ball55/digital-audio/blob/gh-pages/Dub_Siren.rar) 
 
+## Personal Projects
+1. [DUB SIREN](https://github.com/8ball55/digital-audio/blob/gh-pages/Dub_Siren.rar) 
 ![Image](https://raw.githubusercontent.com/8ball55/digital-audio/gh-pages/Dub_Siren.PNG)
 
 ## Contact Me For Any Questions
-sshafii@uci.edu
+sshafii@g.ucla.edu
